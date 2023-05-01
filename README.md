@@ -1,4 +1,4 @@
-# Bitcoin UTXO Dump
+# Memetic utxo dump - forked from Bitcoin UTXO Dump
 
 **Warning:** This tool may corrupt your chainstate database. If it does, you will need to run `bitcoind -reindex-chainstate` the next time you run bitcoin, and this usually takes around a day to complete. It's not a terrible problem, but it can be annoying. I'm not entirely sure why it happens, so if you can figure out how to fix it, that would be cool.
 
